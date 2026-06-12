@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-board-dark: #779556;
+  --color-board-light: #ebecd0;
+  --color-bg-primary: #1e1e1e;
+  --color-bg-secondary: #2c2c2c;
+  --color-bg-panel: #262421;
+}
+
+@layer base {
+  body {
+    @apply bg-[#1e1e1e] text-white overflow-x-hidden;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  }
+}

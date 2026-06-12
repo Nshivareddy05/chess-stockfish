@@ -1,0 +1,28 @@
+{
+  "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1": {
+    "name": "Starting Position",
+    "moves": [
+      {"san": "e4", "name": "King's Pawn Game", "games": 1543200},
+      {"san": "d4", "name": "Queen's Pawn Game", "games": 1102540},
+      {"san": "Nf3", "name": "Zukertort Opening", "games": 320140},
+      {"san": "c4", "name": "English Opening", "games": 280500}
+    ]
+  },
+  "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1": {
+    "name": "King's Pawn Game",
+    "moves": [
+      {"san": "c5", "name": "Sicilian Defense", "games": 654000},
+      {"san": "e5", "name": "Open Game", "games": 420000},
+      {"san": "e6", "name": "French Defense", "games": 180000},
+      {"san": "c6", "name": "Caro-Kann Defense", "games": 150000}
+    ]
+  },
+  "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1": {
+    "name": "Queen's Pawn Game",
+    "moves": [
+      {"san": "Nf6", "name": "Indian Defense", "games": 450000},
+      {"san": "d5", "name": "Closed Game", "games": 380000},
+      {"san": "e6", "name": "Horwitz Defense", "games": 90000}
+    ]
+  }
+}
